@@ -1,0 +1,345 @@
+.tela-treinos {
+  background-color: #ffffff;
+  width: 100%;
+  min-width: 1440px;
+  min-height: 1440px;
+  position: relative;
+}
+
+.tela-treinos .rectangle-15 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 1440px;
+  height: 90px;
+  background-color: #000000;
+}
+
+.tela-treinos .image-8 {
+  top: 20px;
+  left: 1229px;
+  position: absolute;
+  width: 50px;
+  height: 50px;
+  aspect-ratio: 1;
+  object-fit: cover;
+}
+
+.tela-treinos .image-9 {
+  top: 20px;
+  left: 1297px;
+  position: absolute;
+  width: 50px;
+  height: 50px;
+  aspect-ratio: 1;
+  object-fit: cover;
+}
+
+.tela-treinos .botao-menu-lateral-3 {
+  position: absolute;
+  top: 28px;
+  left: 1376px;
+  width: 50px;
+  height: 34px;
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+}
+
+.tela-treinos .line-5 {
+  margin-top: -1px;
+  width: 50px;
+  height: 1px;
+  object-fit: cover;
+}
+
+.tela-treinos .line-6 {
+  width: 50px;
+  height: 1px;
+  object-fit: cover;
+}
+
+.tela-treinos .text-wrapper-25 {
+  position: absolute;
+  top: 20px;
+  left: 576px;
+  font-family: "Jaro", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 40px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.tela-treinos .group-8 {
+  top: -6px;
+  left: 0;
+  width: 208px;
+  height: 96px;
+  display: flex;
+  position: absolute;
+}
+
+.tela-treinos .logo-mago-fitness-4 {
+  margin-top: 6px;
+  width: 90px;
+  height: 90px;
+  aspect-ratio: 1;
+}
+
+.tela-treinos .body-wizard-3 {
+  width: 116px;
+  height: 84px;
+  font-family: "Jaro", Helvetica;
+  font-weight: 400;
+  color: #ff0000;
+  font-size: 40px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.tela-treinos .image-10 {
+  top: 99px;
+  left: 10px;
+  position: absolute;
+  width: 50px;
+  height: 50px;
+  aspect-ratio: 1;
+  object-fit: cover;
+}
+
+.tela-treinos .rectangle-16 {
+  position: absolute;
+  top: 117px;
+  left: 111px;
+  width: 1218px;
+  height: 1198px;
+  background-color: #ffffff;
+  border-radius: 10px;
+  border: 2px solid;
+  border-color: #000000;
+}
+
+.tela-treinos .group-9 {
+  top: 271px;
+  left: 228px;
+  width: 252px;
+  height: 250px;
+  position: absolute;
+}
+
+.tela-treinos .rectangle-17 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 250px;
+  height: 250px;
+  background-color: #d03b3b;
+  border-radius: 10px;
+}
+
+.tela-treinos .text-wrapper-26 {
+  position: absolute;
+  top: 100px;
+  left: 59px;
+  font-family: "Jaro", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 40px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.tela-treinos .group-10 {
+  top: 271px;
+  left: 595px;
+  width: 252px;
+  height: 250px;
+  position: absolute;
+}
+
+.tela-treinos .text-wrapper-27 {
+  position: absolute;
+  top: 100px;
+  left: 62px;
+  font-family: "Jaro", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 40px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.tela-treinos .group-11 {
+  top: 271px;
+  left: 962px;
+  width: 252px;
+  height: 250px;
+  position: absolute;
+}
+
+.tela-treinos .text-wrapper-28 {
+  position: absolute;
+  top: 100px;
+  left: 68px;
+  font-family: "Jaro", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 40px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.tela-treinos .group-12 {
+  top: 627px;
+  left: 228px;
+  width: 252px;
+  height: 250px;
+  position: absolute;
+}
+
+.tela-treinos .text-wrapper-29 {
+  position: absolute;
+  top: 100px;
+  left: 74px;
+  font-family: "Jaro", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 40px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.tela-treinos .group-13 {
+  top: 627px;
+  left: 595px;
+  width: 252px;
+  height: 250px;
+  position: absolute;
+}
+
+.tela-treinos .text-wrapper-30 {
+  position: absolute;
+  top: 100px;
+  left: 75px;
+  font-family: "Jaro", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 40px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.tela-treinos .group-14 {
+  top: 627px;
+  left: 962px;
+  width: 252px;
+  height: 250px;
+  position: absolute;
+}
+
+.tela-treinos .text-wrapper-31 {
+  position: absolute;
+  top: 100px;
+  left: 46px;
+  font-family: "Jaro", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 40px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.tela-treinos .group-15 {
+  top: 1009px;
+  left: 228px;
+  width: 252px;
+  height: 250px;
+  position: absolute;
+}
+
+.tela-treinos .text-wrapper-32 {
+  position: absolute;
+  top: 100px;
+  left: 41px;
+  font-family: "Jaro", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 40px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.tela-treinos .group-16 {
+  top: 1009px;
+  left: 595px;
+  width: 252px;
+  height: 250px;
+  position: absolute;
+}
+
+.tela-treinos .text-wrapper-33 {
+  position: absolute;
+  top: 108px;
+  left: 69px;
+  font-family: "Jaro", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 40px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.tela-treinos .group-17 {
+  top: 1009px;
+  left: 962px;
+  width: 252px;
+  height: 250px;
+  position: absolute;
+}
+
+.tela-treinos .text-wrapper-34 {
+  position: absolute;
+  top: 108px;
+  left: 63px;
+  font-family: "Jaro", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 40px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.tela-treinos .text-wrapper-35 {
+  position: absolute;
+  top: 168px;
+  left: 188px;
+  font-family: "Jaro", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 40px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.tela-treinos .rectangle-18 {
+  position: absolute;
+  top: 1338px;
+  left: 595px;
+  width: 250px;
+  height: 72px;
+  background-color: #000000;
+  border-radius: 3px;
+}
+
+.tela-treinos .text-wrapper-36 {
+  position: absolute;
+  top: 1349px;
+  left: 668px;
+  font-family: "Jaro", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 40px;
+  letter-spacing: 0;
+  line-height: normal;
+}

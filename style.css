@@ -1,0 +1,274 @@
+.tela-inicial {
+  background-color: #ffffff;
+  width: 100%;
+  min-width: 1440px;
+  min-height: 1733px;
+  position: relative;
+}
+
+.tela-inicial .rectangle {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 1440px;
+  height: 90px;
+  background-color: #000000;
+}
+
+.tela-inicial .group {
+  position: absolute;
+  top: -6px;
+  left: 0;
+  width: 208px;
+  height: 96px;
+  display: flex;
+}
+
+.tela-inicial .logo-mago-fitness {
+  margin-top: 6px;
+  width: 90px;
+  height: 90px;
+  aspect-ratio: 1;
+}
+
+.tela-inicial .body-wizard {
+  width: 116px;
+  height: 84px;
+  font-family: "Jaro", Helvetica;
+  font-weight: 400;
+  color: #ff0000;
+  font-size: 40px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.tela-inicial .text-wrapper {
+  position: absolute;
+  top: 20px;
+  left: 419px;
+  font-family: "Jaro", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 40px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.tela-inicial .div {
+  position: absolute;
+  top: 20px;
+  left: 733px;
+  font-family: "Jaro", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 40px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.tela-inicial .imagem-magos {
+  position: absolute;
+  top: 87px;
+  left: 0;
+  width: 1440px;
+  height: 582px;
+  aspect-ratio: 2.5;
+  object-fit: cover;
+}
+
+.tela-inicial .estandarte {
+  position: absolute;
+  top: 269px;
+  left: 45px;
+  width: 177px;
+  height: 397px;
+}
+
+.tela-inicial .rectangle-2 {
+  position: absolute;
+  top: 268px;
+  left: 69px;
+  width: 38px;
+  height: 129px;
+  border: 1px solid;
+  border-color: #000000;
+  background: linear-gradient(
+    180deg,
+    rgba(193, 90, 26, 1) 0%,
+    rgba(77, 34, 7, 1) 100%
+  );
+}
+
+.tela-inicial .polygon {
+  position: absolute;
+  top: 226px;
+  left: 13px;
+  width: 149px;
+  height: 134px;
+}
+
+.tela-inicial .rectangle-3 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 175px;
+  height: 233px;
+  border-radius: 2px;
+  border: 1px solid;
+  border-color: #fffbfb;
+  background: linear-gradient(
+    180deg,
+    rgba(185, 118, 244, 1) 0%,
+    rgba(136, 68, 195, 1) 48%,
+    rgba(94, 27, 152, 1) 100%
+  );
+}
+
+.tela-inicial .conhe-a-nosso {
+  position: absolute;
+  top: 37px;
+  left: 20px;
+  font-family: "Jaro", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 30px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.tela-inicial .botao-menu-lateral {
+  position: absolute;
+  top: 28px;
+  left: 1376px;
+  width: 50px;
+  height: 34px;
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+}
+
+.tela-inicial .line {
+  width: 50px;
+  height: 1px;
+  margin-top: -1px;
+  object-fit: cover;
+}
+
+.tela-inicial .img {
+  width: 50px;
+  height: 1px;
+  object-fit: cover;
+}
+
+.tela-inicial .image {
+  left: 1297px;
+  position: absolute;
+  top: 20px;
+  width: 50px;
+  height: 50px;
+  aspect-ratio: 1;
+  object-fit: cover;
+}
+
+.tela-inicial .text-wrapper-2 {
+  position: absolute;
+  top: 676px;
+  left: 583px;
+  font-family: "Jaro", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 30px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.tela-inicial .rectangle-4 {
+  position: absolute;
+  top: 726px;
+  left: 60px;
+  width: 400px;
+  height: 400px;
+  background-color: #d9d9d9;
+  border-radius: 10px;
+  aspect-ratio: 1;
+}
+
+.tela-inicial .rectangle-5 {
+  position: absolute;
+  top: 726px;
+  left: 520px;
+  width: 400px;
+  height: 400px;
+  background-color: #d9d9d9;
+  border-radius: 10px;
+  aspect-ratio: 1;
+}
+
+.tela-inicial .rectangle-6 {
+  position: absolute;
+  top: 726px;
+  left: 980px;
+  width: 400px;
+  height: 400px;
+  background-color: #d9d9d9;
+  border-radius: 10px;
+  aspect-ratio: 1;
+}
+
+.tela-inicial .rectangle-7 {
+  position: absolute;
+  top: 1174px;
+  left: 60px;
+  width: 400px;
+  height: 400px;
+  background-color: #d9d9d9;
+  border-radius: 10px;
+  aspect-ratio: 1;
+}
+
+.tela-inicial .rectangle-8 {
+  position: absolute;
+  top: 1174px;
+  left: 520px;
+  width: 400px;
+  height: 400px;
+  background-color: #d9d9d9;
+  border-radius: 10px;
+  aspect-ratio: 1;
+}
+
+.tela-inicial .rectangle-9 {
+  position: absolute;
+  top: 1174px;
+  left: 980px;
+  width: 400px;
+  height: 400px;
+  background-color: #d9d9d9;
+  border-radius: 10px;
+  aspect-ratio: 1;
+}
+
+.tela-inicial .o-portal-dos-nerds {
+  position: absolute;
+  top: 165px;
+  left: 294px;
+  font-family: "Jaro", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 150px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.tela-inicial .image-2 {
+  left: 1229px;
+  position: absolute;
+  top: 20px;
+  width: 50px;
+  height: 50px;
+  aspect-ratio: 1;
+  object-fit: cover;
+}

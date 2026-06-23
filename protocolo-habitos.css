@@ -1,0 +1,130 @@
+.protocolo-habitos {
+  position: relative;
+  width: 700px;
+  height: 700px;
+  background-color: #000000;
+  border-radius: 10px;
+  border: 4px solid;
+  border-color: #ffffff;
+}
+
+.protocolo-habitos .text-wrapper-3 {
+  position: absolute;
+  width: 47.57%;
+  height: 7.14%;
+  top: 0;
+  left: 26.14%;
+  font-family: "Jaro", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 40px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.protocolo-habitos .line-2 {
+  position: absolute;
+  width: 95.14%;
+  height: 89.29%;
+  top: 10.71%;
+  left: 4.86%;
+  object-fit: cover;
+}
+
+.protocolo-habitos .p {
+  position: absolute;
+  width: 62.14%;
+  height: 5.43%;
+  top: 18.86%;
+  left: 18.86%;
+  font-family: "Jaro", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 30px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.protocolo-habitos .text-wrapper-4 {
+  position: absolute;
+  width: 70.43%;
+  height: 5.43%;
+  top: 29.00%;
+  left: 14.71%;
+  font-family: "Jaro", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 30px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.protocolo-habitos .text-wrapper-5 {
+  position: absolute;
+  width: 62.57%;
+  height: 5.43%;
+  top: 39.14%;
+  left: 18.71%;
+  font-family: "Jaro", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 30px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.protocolo-habitos .text-wrapper-6 {
+  position: absolute;
+  width: 48.00%;
+  height: 5.43%;
+  top: 49.29%;
+  left: 26.00%;
+  font-family: "Jaro", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 30px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.protocolo-habitos .text-wrapper-7 {
+  position: absolute;
+  width: 67.14%;
+  height: 5.43%;
+  top: 59.43%;
+  left: 16.43%;
+  font-family: "Jaro", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 30px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.protocolo-habitos .text-wrapper-8 {
+  position: absolute;
+  width: 56.43%;
+  height: 5.43%;
+  top: 69.57%;
+  left: 21.71%;
+  font-family: "Jaro", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 30px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.protocolo-habitos .text-wrapper-9 {
+  position: absolute;
+  width: 95.71%;
+  height: 2.86%;
+  top: 95.86%;
+  left: 0;
+  font-family: "Jaro", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 16px;
+  letter-spacing: 0;
+  line-height: normal;
+}

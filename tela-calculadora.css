@@ -1,0 +1,251 @@
+.tela-calculadora {
+  background-color: #ffffff;
+  width: 100%;
+  min-width: 1440px;
+  min-height: 1024px;
+  position: relative;
+}
+
+.tela-calculadora .rectangle-10 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 1440px;
+  height: 90px;
+  background-color: #000000;
+}
+
+.tela-calculadora .image-5 {
+  top: 20px;
+  left: 1229px;
+  position: absolute;
+  width: 50px;
+  height: 50px;
+  aspect-ratio: 1;
+  object-fit: cover;
+}
+
+.tela-calculadora .image-6 {
+  top: 20px;
+  left: 1297px;
+  position: absolute;
+  width: 50px;
+  height: 50px;
+  aspect-ratio: 1;
+  object-fit: cover;
+}
+
+.tela-calculadora .botao-menu-lateral-2 {
+  position: absolute;
+  top: 28px;
+  left: 1376px;
+  width: 50px;
+  height: 34px;
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+}
+
+.tela-calculadora .line-3 {
+  margin-top: -1px;
+  width: 50px;
+  height: 1px;
+  object-fit: cover;
+}
+
+.tela-calculadora .line-4 {
+  width: 50px;
+  height: 1px;
+  object-fit: cover;
+}
+
+.tela-calculadora .group-2 {
+  position: absolute;
+  top: -6px;
+  left: 0;
+  width: 208px;
+  height: 96px;
+  display: flex;
+}
+
+.tela-calculadora .logo-mago-fitness-3 {
+  margin-top: 6px;
+  width: 90px;
+  height: 90px;
+  aspect-ratio: 1;
+}
+
+.tela-calculadora .body-wizard-2 {
+  width: 116px;
+  height: 84px;
+  font-family: "Jaro", Helvetica;
+  font-weight: 400;
+  color: #ff0000;
+  font-size: 40px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.tela-calculadora .text-wrapper-19 {
+  position: absolute;
+  top: 20px;
+  left: 616px;
+  font-family: "Jaro", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 40px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.tela-calculadora .image-7 {
+  top: 99px;
+  left: 10px;
+  position: absolute;
+  width: 50px;
+  height: 50px;
+  aspect-ratio: 1;
+  object-fit: cover;
+}
+
+.tela-calculadora .rectangle-11 {
+  position: absolute;
+  top: 124px;
+  left: 389px;
+  width: 661px;
+  height: 868px;
+  background-color: #ffffff;
+  border-radius: 10px;
+  border: 2px solid;
+  border-color: #000000;
+}
+
+.tela-calculadora .group-3 {
+  position: absolute;
+  top: 170px;
+  left: 427px;
+  width: 587px;
+  height: 50px;
+}
+
+.tela-calculadora .rectangle-12 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 585px;
+  height: 49px;
+  background-color: #816ece;
+  border-radius: 10px;
+}
+
+.tela-calculadora .text-wrapper-20 {
+  position: absolute;
+  top: 0;
+  left: 184px;
+  font-family: "Jaro", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 40px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.tela-calculadora .group-4 {
+  position: absolute;
+  top: 343px;
+  left: 427px;
+  width: 587px;
+  height: 50px;
+}
+
+.tela-calculadora .rectangle-13 {
+  position: absolute;
+  top: 1px;
+  left: 0;
+  width: 585px;
+  height: 49px;
+  background-color: #816ece;
+  border-radius: 10px;
+}
+
+.tela-calculadora .text-wrapper-21 {
+  position: absolute;
+  top: 0;
+  left: 92px;
+  font-family: "Jaro", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 40px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.tela-calculadora .group-5 {
+  position: absolute;
+  top: 516px;
+  left: 427px;
+  width: 587px;
+  height: 50px;
+}
+
+.tela-calculadora .text-wrapper-22 {
+  position: absolute;
+  top: 0;
+  left: 34px;
+  font-family: "Jaro", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 40px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.tela-calculadora .group-6 {
+  position: absolute;
+  top: 862px;
+  left: 427px;
+  width: 587px;
+  height: 50px;
+}
+
+.tela-calculadora .text-wrapper-23 {
+  position: absolute;
+  top: 0;
+  left: 13px;
+  font-family: "Jaro", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 40px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.tela-calculadora .group-7 {
+  position: absolute;
+  top: 688px;
+  left: 427px;
+  width: 587px;
+  height: 51px;
+}
+
+.tela-calculadora .rectangle-14 {
+  position: absolute;
+  top: 2px;
+  left: 0;
+  width: 585px;
+  height: 49px;
+  background-color: #816ece;
+  border-radius: 10px;
+}
+
+.tela-calculadora .text-wrapper-24 {
+  position: absolute;
+  top: 0;
+  left: 108px;
+  font-family: "Jaro", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 40px;
+  letter-spacing: 0;
+  line-height: normal;
+}

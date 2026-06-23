@@ -1,0 +1,163 @@
+.menu-lateral {
+  position: relative;
+  width: 250px;
+  height: 1024px;
+  background-color: #000000;
+  border: 4px solid;
+  border-color: #ffffff;
+}
+
+.menu-lateral .text-wrapper-10 {
+  position: absolute;
+  width: 68.00%;
+  height: 4.88%;
+  top: 0;
+  left: 16.00%;
+  font-family: "Jaro", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 40px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.menu-lateral .text-wrapper-11 {
+  position: absolute;
+  width: 79.20%;
+  height: 3.71%;
+  top: 8.20%;
+  left: 8.80%;
+  font-family: "Jaro", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 30px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.menu-lateral .text-wrapper-12 {
+  position: absolute;
+  width: 65.60%;
+  height: 3.71%;
+  top: 14.94%;
+  left: 8.80%;
+  font-family: "Jaro", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 30px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.menu-lateral .text-wrapper-13 {
+  position: absolute;
+  width: 40.40%;
+  height: 3.71%;
+  top: 21.68%;
+  left: 8.80%;
+  font-family: "Jaro", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 30px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.menu-lateral .text-wrapper-14 {
+  position: absolute;
+  width: 30.00%;
+  height: 3.71%;
+  top: 28.42%;
+  left: 8.80%;
+  font-family: "Jaro", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 30px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.menu-lateral .text-wrapper-15 {
+  position: absolute;
+  width: 68.80%;
+  height: 3.71%;
+  top: 41.89%;
+  left: 8.80%;
+  font-family: "Jaro", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 30px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.menu-lateral .text-wrapper-16 {
+  position: absolute;
+  width: 44.40%;
+  height: 3.71%;
+  top: 35.16%;
+  left: 8.80%;
+  font-family: "Jaro", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 30px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.menu-lateral .text-wrapper-17 {
+  position: absolute;
+  width: 74.40%;
+  height: 3.71%;
+  top: 48.63%;
+  left: 8.80%;
+  font-family: "Jaro", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 30px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.menu-lateral .text-wrapper-18 {
+  position: absolute;
+  width: 72.00%;
+  height: 3.71%;
+  top: 55.37%;
+  left: 8.80%;
+  font-family: "Jaro", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 30px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.menu-lateral .logo-mago-fitness-2 {
+  position: absolute;
+  width: 86.80%;
+  top: 834px;
+  left: 13.20%;
+  height: 183px;
+  aspect-ratio: 1;
+}
+
+.menu-lateral .image-3 {
+  width: 87.60%;
+  top: 684px;
+  left: 12.40%;
+  height: 70px;
+  aspect-ratio: 1;
+  position: absolute;
+  object-fit: cover;
+}
+
+.menu-lateral .image-4 {
+  width: 40.40%;
+  top: 695px;
+  left: 59.60%;
+  height: 48px;
+  aspect-ratio: 1.44;
+  position: absolute;
+  object-fit: cover;
+}
